@@ -32,9 +32,10 @@
     ```
     in case you are working with other npm version please run
     ```
-    npm install npm@8.12.12 -g
+    npm install npm -g
     ```
-    <br>
+    3. RUN `npm install pnpm -g`
+       <br>
 
 ## Subjects
 
