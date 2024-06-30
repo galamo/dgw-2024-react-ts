@@ -74,7 +74,7 @@ console.log(1111);
 
 - Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects. It consists of two major parts: dev server & rollup bundler
 
-`npm create vite@latest --template typescript`
+`pnpm create vite@latest --template PROJECT_NAME`
 typescript & react
 
 - Running the project
